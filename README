@@ -1,0 +1,5 @@
+This repository contains a deep learning model built using PyTorch to classify and identify the material of garbage items.
+The model is trained on images of various types of garbage to predict their material types, such as plastic, glass, metal, etc.
+This project aims to support recycling efforts by automating the sorting and categorization of waste.
+Here where you can install the data from kaggle
+https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
